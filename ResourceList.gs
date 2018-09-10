@@ -1,6 +1,6 @@
 var DEP_LIST={}
 var LOC_LIST={}
-
+//version 0.1
 function myFunction() {
     testGET();
 }
